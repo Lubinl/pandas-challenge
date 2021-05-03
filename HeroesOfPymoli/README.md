@@ -40,6 +40,8 @@ The dataset is composed of 7 columns:
 - Item Name
 - Price
 
+## Technologies
+
 Scripts were created using Python (Version 3.8.8) in Jupyter Notebook (Version 6.3.0). 
 
 Applied use of:
