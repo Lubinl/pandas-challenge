@@ -1,0 +1,22 @@
+Heroes of Pymoli Findings
+
+- Majority of the games players are male (at 84.03%). However, females (at 14.06%) are the more profitable gender, with an "Avg Total Purchase per Person" of $4.47.
+
+- Majority of players (44.79%) fall between "20-24" years of age. The most profitable age group however are those between the ages of "35-39", with an "Average Purchase Price" of $3.60. The most frequent shopper is, "Lisosia93". With a a total of 5 purchases.
+
+- In regards to the top 5 most popular items purchased, the list is as followed: 
+
+	"Final Critic"
+	"Oathbreaker, Last Hope of the Breaking Storm"
+	"Fiery Glass Crusader"
+	"Persuasion"
+	"Extraction, Quickblade Of Trembling Hands"
+	
+	However, the most profitable we have the following:
+
+	"Final Critic"
+	"Oathbreaker, Last Hope of the Breaking Storm"
+	"Nirvana"
+	"Fiery Glass Crusader"
+	"Singed Scalpel"
+	
